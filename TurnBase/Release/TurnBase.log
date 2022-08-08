@@ -1,0 +1,48 @@
+﻿  AdditionEffect.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Animation.cpp
+D:\Cpp\STurnBase\TurnBase\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Champion.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Dice.cpp
+D:\Cpp\STurnBase\TurnBase\Input.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Engine.cpp
+D:\Cpp\STurnBase\TurnBase\Engine.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  FontsManager.cpp
+D:\Cpp\STurnBase\TurnBase\FontsManager.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObjectFactory.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  God.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Input.cpp
+D:\Cpp\STurnBase\TurnBase\Input.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Mage.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+D:\Cpp\STurnBase\TurnBase\Engine.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MenuButton.cpp
+D:\Cpp\STurnBase\TurnBase\MenuButton.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MainMenuSate.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PickingPhase.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PlayState.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Samurai.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SoundManager.cpp
+D:\Cpp\STurnBase\TurnBase\SoundManager.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StateGameMachine.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+D:\Cpp\STurnBase\TurnBase\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Compiling...
+  Timer.cpp
+D:\Cpp\STurnBase\TurnBase\Timer.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Wizard.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Zombie.cpp
+D:\Cpp\STurnBase\TurnBase\Properties.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
